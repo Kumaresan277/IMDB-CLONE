@@ -20,7 +20,7 @@
 
 ---
 
-###📸 Screenshots
+### 📸 Screenshots
 
 ### Home Page
 ![Home](./Screenshots/Home_Page.png)
@@ -29,7 +29,7 @@
 ![Home](./Screenshots/Trending_Movies.png)
 
 ### WatchList
-![Home](./Screenshots/Watchlist.png)
+![Home](./Screenshots/Watchist.png)
 
 ---
 
