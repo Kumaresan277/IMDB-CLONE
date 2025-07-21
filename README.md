@@ -1,4 +1,4 @@
-##🎬 IMDB Clone
+## 🎬 IMDB Clone
 - A React-based IMDB Clone that leverages the TMDB API to deliver real-time movie data. This web application replicates the core features of the popular IMDB platform, enabling users to:
 
 - ✅ Explore the latest trending movies
