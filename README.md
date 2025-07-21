@@ -1,17 +1,63 @@
-<<<<<<< HEAD
-# IMDB-CLONE
-IMDB Clone is a React-based web application that mimics the core features of the popular IMDB platform. It allows users to explore the latest movies, add their favorite films to a personalized watchlist, and discover movies based on genres. With the option to filter movies by ratings, search for specific movies, and delete items from the watchlist.
-=======
-# React + Vite
+##🎬 IMDB Clone
+- A React-based IMDB Clone that leverages the TMDB API to deliver real-time movie data. This web application replicates the core features of the popular IMDB platform, enabling users to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- ✅ Explore the latest trending movies
+- ✅ Filter movies by ratings and genres
+- ✅ Search for specific movies
+- ✅ Add favorite movies to a personalized watchlist
+- ✅ Remove movies from the watchlist
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Features
+- 📌 Latest Movies: Fetch and display popular and latest movies using TMDB API.
+- 🔍 Search Functionality: Instantly search for any movie by name.
+- 🏷️ Genre Filtering: View movies categorized by genres.
+- ⭐ Ratings Filter: Filter movies based on user ratings.
+- 📄 Detailed Movie View: See detailed information about each movie.
+- ❤️ Watchlist: Add and manage your favorite movies in a personal watchlist.
+- 🗑️ Watchlist Management: Remove movies from the watchlist easily.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 6d9c004 (Initial commit)
+###📸 Screenshots
+Add screenshots of your app here to showcase the UI.
+
+---
+
+### 🛠️ Technologies Used
+- React JS (Frontend)
+- TMDB API (for fetching movie data)
+- React Router (for navigation)
+- CSS / Tailwind CSS (for styling - specify which you used)
+- Local Storage / Redux / Context API (for watchlist management - specify which one you used)
+
+---
+
+### 📦 Setup & Installation
+
+#### Clone the repository:
+- git clone https://github.com/your-username/imdb-clone.git
+- cd imdb-clone
+
+#### Install dependencies
+- npm install
+- 
+#### Configure TMDB API
+- Create a .env file in the root directory and add your TMDB API key:
+- VITE_TMDB_API_KEY=your_tmdb_api_key
+  
+#### Start the application
+- npm run dev
+  
+#### Open your browser and navigate to:
+- http://localhost:5173
+  
+---
+
+### 🚀 Future Enhancements
+- User authentication & persistent watchlist
+- Pagination for search results
+- Movie recommendations
+- Responsive UI improvements
+- Dark/Light theme toggle
