@@ -29,7 +29,7 @@
 ![Home](./Screenshots/Trending_Movies.png)
 
 ### WatchList
-![Home](./Screenshots/Watchist.png)
+![Home](./Screenshots/Watchlist.png)
 
 ---
 
@@ -62,6 +62,9 @@
 - http://localhost:5173
   
 ---
+
+### 👨‍🎓 Author
+- Kumaresan D
 
 ### 🚀 Future Enhancements
 - User authentication & persistent watchlist
