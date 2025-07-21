@@ -21,7 +21,15 @@
 ---
 
 ###📸 Screenshots
-Add screenshots of your app here to showcase the UI.
+
+### Home Page
+![Home](./Screenshots/Home_Page.png)
+
+### Trending Movies
+![Home](./Screenshots/Trending_Movies.png)
+
+### WatchList
+![Home](./Screenshots/Watchlist.png)
 
 ---
 
